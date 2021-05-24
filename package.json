@@ -1,0 +1,11 @@
+{
+  "name": "polylens",
+  "version": "0.0.1",
+  "description": "A polytypic lens library for extracting arbitrary data from any data type",
+  "main": "lens.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "upkeep",
+  "license": "LGPL-3.0"
+}
